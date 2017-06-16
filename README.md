@@ -1,1 +1,1 @@
-# jenkins-phpcs-poc
+# coding standards CI proof of concept
