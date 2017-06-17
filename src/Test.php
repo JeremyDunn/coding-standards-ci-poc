@@ -18,4 +18,9 @@ class Test {
 		$this->prop1 = $prop1;
 		$this->prop2 = $prop2;
 	}
+
+	public function getProp1()
+	{
+		return $this->prop1;
+	}
 }
