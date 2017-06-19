@@ -3,7 +3,7 @@
 
   <description>PHP_CodeSniffer configuration</description>
 
-    <rule ref="WordPress Core">
+    <rule ref="WordPress-Core">
     </rule>
 
 </ruleset>
